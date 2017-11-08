@@ -1,3 +1,6 @@
+git remote add origin https://github.com/OriginalNetworkExperts/Arduino.git
+git push -u origin master
+
 #include <SPI.h>
 #include "WizFi250.h"
 #include <ArduinoHttpClient.h>
