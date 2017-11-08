@@ -48,7 +48,7 @@ if(text=='1'){
   }
   }
 }
-//Arduino UNO <-> ORANGE BOARD 1:1 connect
+//Arduino UNO <-> ORANGE BOARD 1:1 rx/tx communication
 char jsptext(){
 while(plz){
 if (Serial.available()) {
